@@ -1,0 +1,19 @@
+{
+  "name": "fetch-npm-metadata",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Serkan Durusoy <serkan@paystack.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "@fast-csv/format": "^4.0.2",
+    "@fast-csv/parse": "^4.0.2",
+    "semver": "^7.1.2"
+  }
+}
